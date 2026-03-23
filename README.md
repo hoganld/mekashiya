@@ -53,7 +53,7 @@ Have hex codes handy for just three colors:
 - highlight color
 - text color
 
-Have a look at the existing themes to get a feel for the palette scheme. I came up withe palette color names by studying the (beautiful) themes I found in the [Catppuccin Fcitx Themes](https://github.com/catppuccin/fcitx5) project, as well as the various theme files shipped with Omarchy.
+Have a look at the existing themes to get a feel for the palette scheme. I came up with the palette color names by studying the (beautiful) themes I found in the [Catppuccin Fcitx Themes](https://github.com/catppuccin/fcitx5) project, as well as the various theme files shipped with Omarchy.
 
 Once you've picked your colors, run `generator.sh`. It will prompt you for the name of your theme and the color palette. If it can't find your template or themes directories, it will ask you for those as well.
 
